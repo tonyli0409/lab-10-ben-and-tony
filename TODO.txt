@@ -1,0 +1,15 @@
+Item:										Status:
+2D array bitmap draw, non-window			Ben
+Transparent bitmap draw 					Ben
+Peer discovery								Ben
+Collison detection							
+Determine MAC								Ben
+Joystick driver 							
+Make basic sprites							
+
+
+
+
+
+
+
